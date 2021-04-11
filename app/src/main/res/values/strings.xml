@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gestiona Tv</string>
+    <string name="nombreview">TextView</string>
+    <string name="textViewNombre">textViewNombre</string>
+</resources>
